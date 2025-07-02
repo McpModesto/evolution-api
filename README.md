@@ -19,14 +19,14 @@ Este proyecto tiene el objetivo de arrancar la api de evolution-api de forma rá
 
 2. **Configura el archivo `.env`**
 
-```env
-# Sustituye con tu clave de autenticación
-AUTHENTICATION_API_KEY=tu_clave_de_autenticación
-```
+   ```env
+   # Sustituye con tu clave de autenticación
+   AUTHENTICATION_API_KEY=tu_clave_de_autenticación
+   ```
 
-Para generar un Hash (Clave de acceso), accede al siguiente sitio y copia la clave de cifrado de 256 bits generada en el campo:
+   Para generar un Hash (Clave de acceso), accede al siguiente sitio y copia la clave de cifrado de 256 bits generada en el campo:
 
-[Generador de Claves](https://acte.ltd/utils/randomkeygen)
+   [Generador de Claves](https://acte.ltd/utils/randomkeygen)
 
 
 3. **Levanta los contenedores con Docker Compose**:
@@ -51,7 +51,7 @@ Para generar un Hash (Clave de acceso), accede al siguiente sitio y copia la cla
    Una vez desplegado, la API estará disponible en:
 
    ```
-   http://localhost:8080\dashboard
+   http://localhost:8080\manager
    ```
 
    Desde ahí podrás acceder al dashboard o punto de entrada de evolution-api.
