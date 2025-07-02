@@ -13,7 +13,7 @@ Este proyecto tiene el objetivo de arrancar la api de evolution-api de forma rá
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tuusuario/evolution-api.git
+   git clone https://github.com/McpModesto/evolution-api.git
    cd evolution-api
    ```
 
