@@ -54,4 +54,8 @@ Este proyecto tiene el objetivo de arrancar la api de evolution-api de forma rá
    http://localhost:8080\manager
    ```
 
-   Desde ahí podrás acceder al dashboard o punto de entrada de evolution-api.
+   Desde ahí podrás acceder al dashboard de evolution-api y ya podemos hacer uso de la API desde nuestros workflows de n8n.
+
+## Agencia de IA
+
+- [VeloxIA](https://www.veloxiasolutions.com/)
